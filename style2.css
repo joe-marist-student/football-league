@@ -1,0 +1,31 @@
+body {
+    background-image: url("logo.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+  }
+
+p {
+    color: red;
+    text-align: center;
+  }
+
+  div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+ul {
+    list-style-type: circle;
+}
+
+ol {
+    background: hotpink;
+    color: darkred;
+    padding: 20px;
+    list-style-type: upper-roman;
+}
+
+
